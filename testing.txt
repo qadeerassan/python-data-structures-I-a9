@@ -1,0 +1,5 @@
+q1:
+Total Comparisons: 2,373,658
+Word with maximum comparisons 'almost': 17,368
+
+q2:
